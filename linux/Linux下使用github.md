@@ -23,7 +23,7 @@ http://www.cnblogs.com/alwayswangzi/p/6640645.html（转载）
 
 5. 最后把本地仓库origin提交到远程的GitHub仓库，使用命令 git push origin master
 
-   提交三步：git add.   /   git commit -m "说明"  /  git push origin master
+   提交三步：git add .   /   git commit -m "说明"  /  git push origin master
 
 ### 3 从GitHub克隆项目到本地
 
