@@ -6,11 +6,11 @@
 
 ## 总结
 
-### [学习经历&知识结构](数据科学入门.md)
+### [我的数据学习经历](数据科学入门.md)
 
 
 
-### 小结or笔记
+### 技术笔记
 
 - 数据挖掘&机器学习
   - 机器学习模型
@@ -19,11 +19,10 @@
     - [R](R数据科学.md)
     - [Python](Python数据科学.md)
   - SQL
-    - [SQL使用小结](SQL_Basic.md)
-  - 分布式运算
+  - SPARK
+    - [服务器+IDE环境配置](SPARK开发环境配置.md)
     - Hadoop&Spark生态小结
-  - Linux
-    - 阿里云ESC配置spark集群
+    - SPARK MLlib
 
 
 - 数据系统/产品学习
